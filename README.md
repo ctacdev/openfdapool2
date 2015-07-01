@@ -1,6 +1,6 @@
 # FDA PharmaQuery #
 
-Our <a href="https://openfda.ctacdev.com" target="_blank">working prototype</a>.
+Our <a href="http://openfdapool2.ctacdev.com" target="_blank">working prototype</a>.
 
 - [Pool 1 Design README](doc/readme/pool1/README.md)
 - [Pool 2 Development README](doc/readme/pool2/README.md)
