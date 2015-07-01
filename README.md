@@ -10,7 +10,7 @@ Our <a href="https://openfda.ctacdev.com" target="_blank">working prototype</a>.
 
 Development Snapshot: [![Build Status](http://ec2-54-175-101-110.compute-1.amazonaws.com/buildStatus/icon?job=OpenFDA Pool2)](http://ec2-54-175-101-110.compute-1.amazonaws.com/job/OpenFDA Pool2)
 
-[Build Radiator](http://ec2-54-175-101-110.compute-1.amazonaws.com/view/Radiator/)
+[Build Radiator](http://ec2-54-175-101-110.compute-1.amazonaws.com/view/Pool%202%20Radiator)
 
 ### Reports
 - [Test Report](http://ec2-54-175-101-110.compute-1.amazonaws.com/view/Pool%202/job/OpenFDA%20Pool2/lastCompletedBuild/testReport/)
