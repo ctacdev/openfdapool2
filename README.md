@@ -8,16 +8,16 @@ Our <a href="https://openfda.ctacdev.com" target="_blank">working prototype</a>.
 
 ## Continuous Integration (CI) Server ##
 
-Development Snapshot: [![Build Status](http://ec2-54-175-101-110.compute-1.amazonaws.com/buildStatus/icon?job=OpenFDA)](http://ec2-54-175-101-110.compute-1.amazonaws.com/job/OpenFDA)
+Development Snapshot: [![Build Status](http://ec2-54-175-101-110.compute-1.amazonaws.com/buildStatus/icon?job=OpenFDA Pool2)](http://ec2-54-175-101-110.compute-1.amazonaws.com/job/OpenFDA Pool2)
 
 [Build Radiator](http://ec2-54-175-101-110.compute-1.amazonaws.com/view/Radiator/)
 
 ### Reports
-- [Test Report](http://ec2-54-175-101-110.compute-1.amazonaws.com/job/OpenFDA/lastCompletedBuild/testReport/)
-- [Code Coverage Report](http://ec2-54-175-101-110.compute-1.amazonaws.com/job/OpenFDA/Code_Coverage_Report/)
-- [Test History Analysis](http://ec2-54-175-101-110.compute-1.amazonaws.com/job/OpenFDA/test_results_analyzer/)
+- [Test Report](http://ec2-54-175-101-110.compute-1.amazonaws.com/view/Pool%202/job/OpenFDA%20Pool2/lastCompletedBuild/testReport/)
+- [Code Coverage Report](http://ec2-54-175-101-110.compute-1.amazonaws.com/view/Pool%202/job/OpenFDA%20Pool2/Code_Coverage_Report/)
+- [Test History Analysis](http://ec2-54-175-101-110.compute-1.amazonaws.com/view/Pool%202/job/OpenFDA%20Pool2/test_results_analyzer/)
 
-Stable Release: [![Build Status](http://ec2-54-175-101-110.compute-1.amazonaws.com/buildStatus/icon?job=OpenFDA Release)](http://ec2-54-175-101-110.compute-1.amazonaws.com/job/OpenFDA Release)
+Stable Release: [![Build Status](http://ec2-54-175-101-110.compute-1.amazonaws.com/buildStatus/icon?job=OpenFDA Release Pool2)](http://ec2-54-175-101-110.compute-1.amazonaws.com/job/OpenFDA Release Pool2)
 
 ## Dependencies ##
 
