@@ -1,8 +1,8 @@
 a.)
-- [Kickoff meeting minutes](../../doc/readme/MeetingMinutes18FBPAKick-off.docx?raw=true)
+- [Kickoff meeting minutes](../../doc/readme/MeetingMinutes18FBPAKick-off.pdf?raw=true)
 
 b.)
-- [Kickoff meeting minutes](../../doc/readme/MeetingMinutes18FBPAKick-off.docx?raw=true)
+- [Kickoff meeting minutes](../../doc/readme/MeetingMinutes18FBPAKick-off.pdf?raw=true)
 - Billing breakdown TBD
 
 c.)
