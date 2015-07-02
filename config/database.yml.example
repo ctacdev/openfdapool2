@@ -16,8 +16,8 @@ development:
   database: openfda
   username: root
   password:
-  host:localhost
-  port:3306
+  host: localhost
+  port: 3306
 
 test:
   adapter: sqlite3
