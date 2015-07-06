@@ -5,10 +5,7 @@ Rails.application.routes.draw do
     end
   end
 
-  controller :visitors do
-    get 'ingredient_browser'
-    get 'style_guide'
-  end
+  get 'style_guide' => 'visitors#style_guide'
 
-  root to: 'visitors#index'
+  root to: 'visitors#ingredient_browser'
 end

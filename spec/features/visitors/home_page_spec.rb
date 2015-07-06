@@ -10,12 +10,6 @@ feature 'Home page' do
   #   Then I see "Welcome"
   scenario 'visit the home page' do
     visit root_path
-    expect(page).to have_content 'Future Application'
+    expect(page).to have_content 'The Ingredient Browser'
   end
-
-  scenario 'link to the Ingredient Browser' do
-    visit root_path
-    expect(page).to have_selector "a[href='#{ingredient_browser_path}']"
-  end
-
 end
