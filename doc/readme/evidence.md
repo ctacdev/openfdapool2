@@ -3,7 +3,6 @@ a.)
 
 b.)
 - [Kickoff meeting minutes](../../doc/readme/MeetingMinutes18FBPAKick-off.pdf?raw=true)
-- Billing breakdown TBD
 
 c.)
 - [List of open source technologies used](../../doc/readme/open_source_technologies.md)
